@@ -1,4 +1,4 @@
-# Tuza File Browser
+# Simple File Browser
 
 ## Description
 
